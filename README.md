@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-The purpose of the project is to find valuable insights from the data. So if we loaded the data on PostgreSQL. Formatted it first so that we can clean it easily. And did exploratory data analysis(EDA) on the Dataset. Then visualize it on Power BI to uncover more insights
+- The purpose of the project is to find valuable insights from the data. So if we loaded the data on PostgreSQL. Formatted it first so that we can clean it easily. And did exploratory data analysis(EDA) on the Dataset. Then visualize it on Power BI to uncover more insights
 ---
 
 ## Objectives
