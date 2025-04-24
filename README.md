@@ -1,40 +1,27 @@
-# 👥 HR Analytics Dashboard
+# HR Analytics Dashboard
 
-This project focuses on cleaning and analyzing HR data using **SQL (PostgreSQL)** and building a dynamic, interactive **dashboard in Power BI** to uncover key workforce trends and operational inefficiencies. It supports strategic workforce planning and data-driven decision-making.
-
+The purpose of the project is to find valuable insights from the data. So if we loaded the data on PostgreSQL. Formatted it first so that we can clean it easily. And did exploratory data analysis(EDA) on the Dataset. Then visualize it on Power BI to uncover more insights
 ---
 
-## 📌 Objective
+## Objectives
 
 - To analyze HR data and derive meaningful insights related to attrition, headcount, and departmental performance.
-- To build an interactive Power BI dashboard that helps HR teams and managers track workforce KPIs effectively.
+- To build an adaptive Power BI dashboard that helps HR teams to track workforce KPIs effectively.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools used.
 
 - **Languages/Databases:** SQL, PostgreSQL
 - **Visualization Tool:** Power BI
 - **Techniques:** Data Cleaning, Transformation, KPI Analysis, Dashboard Design
 
----
-
-## 📊 Key Tasks Performed
-
-- ✅ **Data Cleaning & Transformation:** Used SQL in PostgreSQL to clean raw HR datasets, remove inconsistencies, and ensure accuracy.
-- ✅ **KPI Development:** Focused on critical HR metrics such as:
-  - Attrition Rate
-  - Headcount Trends
-  - Department-Wise Performance
-- ✅ **Dashboard Design:** Developed a fully interactive Power BI dashboard with filters, charts, and slicers to explore trends by department, time, and location.
-- ✅ **Strategic Impact:** Delivered actionable insights that assisted in resource allocation and reduced operational inefficiencies.
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 
-> *(Add a screenshot here once available)*  
-> ![HR Dashboard](images/hr_dashboard_sample.png)
+![Screenshot 2025-04-24 185958](https://github.com/user-attachments/assets/8cd41e41-9daf-4725-9762-4eebf197e403)
 
 ---
 
